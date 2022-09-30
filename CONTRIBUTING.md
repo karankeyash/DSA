@@ -1,1 +1,3 @@
-A list of all the contributers
+A list of all the contributers:
+
+-Jaideep Vidwani
